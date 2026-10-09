@@ -1,0 +1,12 @@
+{
+  "name": "Nobi AI Assistant",
+  "short_name": "Nobi",
+  "description": "Your personal AI assistant",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#10121a",
+  "theme_color": "#10121a",
+  "icons": [
+    {"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
